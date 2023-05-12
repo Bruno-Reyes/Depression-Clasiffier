@@ -1,0 +1,2 @@
+Arquitectura encontrada!
+{'input_size': 99, 'hidden_sizes': [32, 5], 'activation': ['relu', 'relu', 'sigmoid'], 'output_size': 1, 'fit': 0.55}

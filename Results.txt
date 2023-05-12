@@ -1,0 +1,219 @@
+Generacion  0
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [41, 48], 'activation': ['relu', 'relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  1
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [40], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  2
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [17, 43, 22], 'activation': ['relu', 'relu', 'relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  3
+Mejor aptitud para esta generación:  0.5533
+{'input_size': 99, 'hidden_sizes': [22], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5533}
+Generacion  4
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [32], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  5
+Mejor aptitud para esta generación:  0.55
+{'input_size': 99, 'hidden_sizes': [40], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.55}
+Generacion  6
+Mejor aptitud para esta generación:  0.5767
+{'input_size': 99, 'hidden_sizes': [22], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5767}
+Generacion  7
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [50], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  8
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [40], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  9
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [29], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  10
+Mejor aptitud para esta generación:  0.5733
+{'input_size': 99, 'hidden_sizes': [29], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5733}
+Generacion  11
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [41], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  12
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [29], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  13
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [10], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  14
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [17], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  15
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [35], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  16
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [10], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  17
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [45], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  18
+Mejor aptitud para esta generación:  0.57
+{'input_size': 99, 'hidden_sizes': [42], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.57}
+Generacion  19
+Mejor aptitud para esta generación:  0.5633
+{'input_size': 99, 'hidden_sizes': [32], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5633}
+Generacion  20
+Mejor aptitud para esta generación:  0.5633
+{'input_size': 99, 'hidden_sizes': [42], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5633}
+Generacion  21
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [26], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  22
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [15], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  23
+Mejor aptitud para esta generación:  0.57
+{'input_size': 99, 'hidden_sizes': [18], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.57}
+Generacion  24
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [18], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  25
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [16], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  26
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [46], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  27
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [44], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  28
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [44], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  29
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [10], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  30
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [26], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  31
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [22], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  32
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [4], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  33
+Mejor aptitud para esta generación:  0.5533
+{'input_size': 99, 'hidden_sizes': [26], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5533}
+Generacion  34
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [47], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  35
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [33], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  36
+Mejor aptitud para esta generación:  0.5633
+{'input_size': 99, 'hidden_sizes': [26], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5633}
+Generacion  37
+Mejor aptitud para esta generación:  0.5633
+{'input_size': 99, 'hidden_sizes': [49], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5633}
+Generacion  38
+Mejor aptitud para esta generación:  0.5633
+{'input_size': 99, 'hidden_sizes': [37], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5633}
+Generacion  39
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [20], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  40
+Mejor aptitud para esta generación:  0.5633
+{'input_size': 99, 'hidden_sizes': [39], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5633}
+Generacion  41
+Mejor aptitud para esta generación:  0.5767
+{'input_size': 99, 'hidden_sizes': [22], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5767}
+Generacion  42
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [27], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  43
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [39], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  44
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [39], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  45
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [40], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  46
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [27], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  47
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [11], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  48
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [48], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  49
+Mejor aptitud para esta generación:  0.5633
+{'input_size': 99, 'hidden_sizes': [11], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5633}
+Generacion  50
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [48], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  51
+Mejor aptitud para esta generación:  0.57
+{'input_size': 99, 'hidden_sizes': [20], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.57}
+Generacion  52
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [11], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  53
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [11], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  54
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [32], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  55
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [27], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  56
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [27], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  57
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [27], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  58
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [10], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  59
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [20], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  60
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [10], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  61
+Mejor aptitud para esta generación:  0.5567
+{'input_size': 99, 'hidden_sizes': [20], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5567}
+Generacion  62
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [28], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  63
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [20], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  64
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [27], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  65
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [27], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  66
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [20], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  67
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [48], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  68
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [43], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
+Generacion  69
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [43], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  70
+Mejor aptitud para esta generación:  0.56
+{'input_size': 99, 'hidden_sizes': [43], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.56}
+Generacion  71
+Mejor aptitud para esta generación:  0.57
+{'input_size': 99, 'hidden_sizes': [44], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.57}
+Generacion  72
+Mejor aptitud para esta generación:  0.5667
+{'input_size': 99, 'hidden_sizes': [48], 'activation': ['relu', 'sigmoid'], 'output_size': 1, 'fit': 0.5667}
